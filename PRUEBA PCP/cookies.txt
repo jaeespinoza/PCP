@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+servicios.dgac.gob.cl	TRUE	/pcp	FALSE	1999999999	JSESSIONID	fb0GzPAQlB4l3Pl3Qao8vcls.eacvmpeap1-02
+servicios.dgac.gob.cl	TRUE	/	FALSE	1999999999	SameSite	Strict
+
